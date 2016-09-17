@@ -12,7 +12,9 @@ shinyUI(
                 mainPanel(
                         h1('Guess a number between 1 and 100'),
                         h2('The number is an integer between 1 and 100 (inclusives)'),
-                        verbatimTextOutput("outputValue")
+                        verbatimTextOutput("outputValue"),
+                        h5('You can check the sources on github at'),
+                        a('https://github.com/ccors/project')
                 )
         )
 )
