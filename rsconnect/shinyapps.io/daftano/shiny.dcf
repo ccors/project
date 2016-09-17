@@ -1,0 +1,9 @@
+name: shiny
+account: daftano
+server: shinyapps.io
+appId: 126253
+bundleId: 560464
+url: https://daftano.shinyapps.io/shiny/
+when: 1474151187.35927
+asMultiple: FALSE
+asStatic: FALSE
